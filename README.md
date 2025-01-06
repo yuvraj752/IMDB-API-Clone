@@ -1,6 +1,5 @@
 # IMDb API Clone
-IMDb is an online database of information related to films, television series, podcasts etc.
-
+IMDb is an online database of information related to films, television series, podcasts, home videos and streaming content online.
 ## API
 <img src='./resources/1 API.PNG'>
 
